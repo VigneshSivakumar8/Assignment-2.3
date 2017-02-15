@@ -13,10 +13,10 @@ Components in Hadoop Architecture 1.x
 
            Name Node, Data Node and Secondary Name Node are called as Storage components in Hadoop, whereas Job Tracker and Task Tracker are called as Processing components in Hadoop.
 
-               Name node is a Master Node in Hadoop
-               Data Node is the slave nodes in Hadoop.
-               Master Node's MR component is called as Job Tracker
-               Slave Node's MR component is called as Task Tracker.
+               * Name node is a Master Node in Hadoop
+               * Data Node is the slave nodes in Hadoop.
+               * Master Node's MR component is called as Job Tracker
+               * Slave Node's MR component is called as Task Tracker.
            
                Name Node :
                        1. The job of name node is to decide, how to store the physical location of each and every file in blocks in the cluster
